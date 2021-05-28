@@ -15,6 +15,7 @@ he search page also has a link to `/` (the root URL), which leads back to the ma
 * React
 * React Router
 * React class componenets
+* debounce
 
 ## Project Setup
 * install all project dependencies with `npm install`
