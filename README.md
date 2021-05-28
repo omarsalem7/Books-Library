@@ -8,8 +8,15 @@ Each book has a control that lets you select the shelf for that book. When you s
 The main page also has a link to `/search` , a search page that allows you to find books to add to your library.  
 The search page has a text input that may be used to find books. Along with a control that lets you add the book to your library.  
 he search page also has a link to `/` (the root URL), which leads back to the main page.  
+## Live Preview
+[My-Reads](https://naughty-hypatia-2f4bac.netlify.app/)
 
-To get started developing right away:
+## Technologies Used:
+* React
+* React Router
+* React class componenets
+
+## Project Setup
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
