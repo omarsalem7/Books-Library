@@ -1,4 +1,4 @@
-# MyReads Project
+# Books Library Project
 In this application, the main page displays a list of "shelves" (i.e. categories), each of which contains a number of books. The three shelves are:
 * Currently Reading
 * Want to Read
